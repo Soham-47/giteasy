@@ -3,6 +3,7 @@ import LandingPage from './components/LandingPage';
 import Dashboard from './components/Dashboard';
 import { UserData } from './types';
 
+
 function App() {
   const [currentPage, setCurrentPage] = useState<'landing' | 'dashboard'>('landing');
   const [userData, setUserData] = useState<UserData | null>(null);

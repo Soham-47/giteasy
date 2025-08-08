@@ -71,7 +71,7 @@ Finding a beginner-friendly issue across thousands of repositories is overwhelmi
 ---
 
 ## 📁 Project Structure - Overview
-
+```bash
 giteasy/
 ├── src/ # Front-end source code (React + TypeScript components)
 ├── .env.example # Example environment variables
@@ -85,7 +85,7 @@ giteasy/
 ├── index.html # HTML entry point for the app
 ├── package.json # Project metadata and dependencies
 └── package-lock.json # Exact dependency versions
-
+```
 ---
 
 ## 📄 License

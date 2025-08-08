@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20)
+
 # GitEasy
 
 A beginner-friendly Git utility that makes pushing changes to GitHub effortless.
